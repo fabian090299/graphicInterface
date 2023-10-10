@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\Fabian\Clases\Taller Arduino GUI\serialCommunication\serialCommunication\bin\Debug\serialCommunication.exe.config
+C:\Users\HP\Desktop\Fabian\Clases\Taller Arduino GUI\serialCommunication\serialCommunication\bin\Debug\serialCommunication.exe
+C:\Users\HP\Desktop\Fabian\Clases\Taller Arduino GUI\serialCommunication\serialCommunication\bin\Debug\serialCommunication.pdb
+C:\Users\HP\Desktop\Fabian\Clases\Taller Arduino GUI\serialCommunication\serialCommunication\obj\Debug\serialCommunication.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Fabian\Clases\Taller Arduino GUI\serialCommunication\serialCommunication\obj\Debug\serialCommunication.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Fabian\Clases\Taller Arduino GUI\serialCommunication\serialCommunication\obj\Debug\serialCommunication.FormSerial.resources
+C:\Users\HP\Desktop\Fabian\Clases\Taller Arduino GUI\serialCommunication\serialCommunication\obj\Debug\serialCommunication.Properties.Resources.resources
+C:\Users\HP\Desktop\Fabian\Clases\Taller Arduino GUI\serialCommunication\serialCommunication\obj\Debug\serialCommunication.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Fabian\Clases\Taller Arduino GUI\serialCommunication\serialCommunication\obj\Debug\serialCommunication.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Fabian\Clases\Taller Arduino GUI\serialCommunication\serialCommunication\obj\Debug\serialCommunication.exe
+C:\Users\HP\Desktop\Fabian\Clases\Taller Arduino GUI\serialCommunication\serialCommunication\obj\Debug\serialCommunication.pdb
